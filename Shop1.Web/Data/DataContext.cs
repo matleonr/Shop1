@@ -2,7 +2,7 @@
 
 namespace Shop1.Web.Data
 {
-    using Common.Models;
+    
     using Microsoft.EntityFrameworkCore;
     using Shop1.Web.Data.Entities;
 
